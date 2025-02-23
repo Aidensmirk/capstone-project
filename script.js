@@ -1,4 +1,4 @@
 
-import { Ripple, initMDB } from "mdb-ui-kit";
+import { Input, initMDB } from "mdb-ui-kit";
 
-initMDB({ Ripple });
+initMDB({ Input });
